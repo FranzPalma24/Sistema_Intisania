@@ -1,2 +1,1 @@
-# Sistema_Intisania
-Sistema de gestion y ventas
+# vida_saludable
